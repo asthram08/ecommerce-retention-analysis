@@ -1,0 +1,4 @@
+price_band,products_viewed,view_to_cart_pct,cart_to_purchase_pct,view_to_purchase_pct
+1. low (under $5),4099847,18.03,13.06,3.55
+2. mid ($5 to $15),2790913,14.24,12.84,2.67
+3. high (over $15),1405658,7.8,14.07,1.5
