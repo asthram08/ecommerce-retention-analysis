@@ -34,3 +34,12 @@ Compared 9,345 repeat buyers with 46,210 one-time buyers (first visit on or afte
 **So what:** nudge first orders to be bigger and span more brands (cross-brand suggestions, free shipping threshold, starter bundles).
 
 **Caveat:** this is correlation, not cause. Big first-time buyers may already be more committed (some may be salon pros). An A/B test of a bundle or shipping threshold would confirm it.
+
+## Q4: How fast do new shoppers buy, and does speed matter?
+
+- Only 6.6% of Nov to Dec first-time visitors bought within 60 days.
+- Among those who bought: 38% bought on their first visit, 59% the same day, and 79% within 7 days. If they don't buy in week 1, they mostly never do.
+- Fast buyers are the least loyal. Repeat rate by time to first purchase: first visit 12.9%, same day 14.3%, 1 to 7 days 21.2%, 8 to 30 days 25.0%, 31+ days 21.1%.
+- Likely reason: shoppers who take days to buy have already come back at least once. The habit of returning predicts loyalty, not the speed of the first purchase. This matches Q3, where one-time buyers were more likely to buy on their first visit.
+
+**So what:** (1) re-engage non-buyers within their first 7 days, when most first purchases happen. (2) Follow up with first-visit buyers right after their purchase, since they are the least likely to return on their own.
