@@ -1,0 +1,3 @@
+buyer_type,buyers,first_session_views,first_session_products,first_session_brands,first_session_carts,first_session_minutes,pct_bought_first_session,first_order_items,first_order_value,first_order_brands
+one_time,46210,2.0,1.0,1.0,3.0,9.0,41.9,4.0,24.78,2.0
+repeat,9345,2.0,2.0,1.0,3.0,9.0,30.7,6.0,31.21,2.0

@@ -18,3 +18,19 @@
 - Tracking gap: about 196K sessions (4%) have a cart event with no view, likely carting from a list page.
 
 **So what:** improve product pages for expensive items (reviews, photos, samples, free shipping threshold). That is where shoppers hesitate most.
+
+## Q3: What do repeat buyers do differently?
+
+Compared 9,345 repeat buyers with 46,210 one-time buyers (first visit on or after Nov 1, first order before Feb 1, so all had 4+ weeks to return).
+
+- First-visit browsing is the same for both groups: about 2 views, 3 carts, 9 minutes.
+- One-time buyers were more likely to buy on their first visit (42% vs 31%). Repeat buyers tend to browse first and come back to buy.
+- Repeat buyers' first orders are bigger: 6 items vs 4, and $31 vs $25 (medians).
+- Repeat rate roughly doubles with a bigger, more varied first order:
+  - 1 item: 10%, 11+ items: 23%
+  - Under $10: 13%, $100+: 23%
+  - 1 brand: 14%, 5+ brands: 23%
+
+**So what:** nudge first orders to be bigger and span more brands (cross-brand suggestions, free shipping threshold, starter bundles).
+
+**Caveat:** this is correlation, not cause. Big first-time buyers may already be more committed (some may be salon pros). An A/B test of a bundle or shipping threshold would confirm it.
