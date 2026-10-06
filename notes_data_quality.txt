@@ -64,3 +64,7 @@
 │    29328 │
 └──────────┘
 
+
+
+Cleaning decisions
+I found 1.1M duplicate rows and removed them before analysis.
