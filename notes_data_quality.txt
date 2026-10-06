@@ -68,3 +68,13 @@
 
 Cleaning decisions
 I found 1.1M duplicate rows and removed them before analysis.
+== Cleaning decisions ==
+
+- Exact duplicate rows (1,109,098, 5.4%): removed. They would inflate views, carts and sales.
+- Zero or negative prices (about 104,000 rows, 0.5%): removed. A negative price is a logging error.
+- Missing session (0.02%): removed. These events can't be placed in a session.
+- Sessions shared by 2+ users (272): removed. Too few to matter, and they confuse user counts.
+- Missing category name (98.3%): not used. Funnel is split by price band and brand instead.
+- Missing brand (42.3%): kept, labeled "unknown".
+- Purchase with no cart in the session (29,328 sessions): kept. Likely a tracking gap. The funnel counts whether a session ever reached a step, not strict order.
+- Date range is Oct 1, 2019 to Feb 29, 2020. October users may have visited before the data starts, so October cohorts are left out of retention.
